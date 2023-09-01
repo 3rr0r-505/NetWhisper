@@ -1,5 +1,12 @@
-![Python Version](https://img.shields.io/badge/python-3.8+-blue?style=for-the-badge&logo=python)
-![OS](https://img.shields.io/badge/OS-GNU%2FLinux-red?style=for-the-badge&logo=linux)
+<p align="center"><a href="https://github.com/3rr0r-505/NetWhisper"><img alt="" src="https://github.com/3rr0r-505/NetWhisper/blob/master/NetWhisper-cover.png?raw=true" width="100%"/></a></p>
+
+<p align="center"> 
+<a href="https://www.python.org/"><img alt="" src="https://img.shields.io/badge/python-3.9%2B-brighten?logo=python&label=pyhton&color=blue"/></a>
+&nbsp;
+<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img alt="" src="https://img.shields.io/badge/OS-GNU%2FLINUX-brighten?logo=linux&label=OS&labelColor=grey&color=red"/></a>
+&nbsp;
+<a href="https://www.microsoft.com/en-us/windows?r=1"><img alt="" src="https://img.shields.io/badge/OS-Windows-brighten?logo=windows&label=OS&labelColor=grey&color=blue"/></a><br>
+</p>
 
 # NetWhisper - Network Packet Sniffer Tool
 
