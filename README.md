@@ -27,7 +27,7 @@ NetWhisper is a command-line tool for capturing and analyzing network packets.
 - Display available network interfaces
 
 ## Installation
-
+ 
 1. Clone the repository:
    ```bash
    git clone https://github.com/3rr0r-505/netwhisper.git
@@ -41,6 +41,8 @@ NetWhisper is a command-line tool for capturing and analyzing network packets.
    pip install -r requirements.txt
 
 ## Usage
+### CLI Mode:
+
 - Display all available network interfaces:
   ```bash
   python netwhisper.py
@@ -69,8 +71,17 @@ NetWhisper is a command-line tool for capturing and analyzing network packets.
   ```bash
   python netwhisper.py -r captured_packets.pcap
 
-- **Note:**  
-  If you encounter ```permission issues``` while capturing packets, try running the tool with ```sudo```: ```sudo python netwhisper.py -i eth0 -tcp```
+### GUI Mode:
+   - **For linux**  
+     ```bash
+     python netwhisper_gui.py
+     
+   - **For Windows**  
+     Go to ```dist``` folder and run the ```netwhisper_gui.exe```
+
+ ### **⚠️Note:**  
+    If you encounter permission issues while capturing packets, try running the tool with sudo.
+
 
 ## Legal Disclaimer
 The use of code contained in this repository, either in part or in its totality,
