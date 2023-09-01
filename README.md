@@ -6,7 +6,7 @@
 NetWhisper is a command-line tool for capturing and analyzing network packets.
 
 ### Demo
-![NetWhisper Demo](https://user-images.githubusercontent.com/15611424/178045423-067df4ec-1853-400e-9b5a-10154cb6fcc1.gif)
+![NetWhisper Demo](https://github.com/3rr0r-505/NetWhisper/blob/master/netwhisper-cli-vid.gif)
 
 ## Features
 
